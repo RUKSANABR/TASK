@@ -1,0 +1,12 @@
+﻿@model ProductDb.Models.Product
+
+<h2>Create Product</h2>
+
+<form asp-action="Create">
+    <p>Name: <input asp-for="Name" /></p>
+    <p>Price: <input asp-for="Price" /></p>
+    <p>Quantity: <input asp-for="Quantity" /></p>
+
+    <button type="submit">Save</button>
+    <a asp-action="Index">Back</a>
+</form>
