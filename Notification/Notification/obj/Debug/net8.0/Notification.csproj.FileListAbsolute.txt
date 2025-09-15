@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\Notification\Notification\bin\Debug\net8.0\Notification.exe
+C:\Users\WIIS\source\repos\Notification\Notification\bin\Debug\net8.0\Notification.deps.json
+C:\Users\WIIS\source\repos\Notification\Notification\bin\Debug\net8.0\Notification.runtimeconfig.json
+C:\Users\WIIS\source\repos\Notification\Notification\bin\Debug\net8.0\Notification.dll
+C:\Users\WIIS\source\repos\Notification\Notification\bin\Debug\net8.0\Notification.pdb
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.dll
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\refint\Notification.dll
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.pdb
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\Notification.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\Notification\Notification\obj\Debug\net8.0\ref\Notification.dll
