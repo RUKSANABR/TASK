@@ -1,0 +1,15 @@
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\bin\Debug\net8.0\XmlEmployee.exe
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\bin\Debug\net8.0\XmlEmployee.deps.json
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\bin\Debug\net8.0\XmlEmployee.runtimeconfig.json
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\bin\Debug\net8.0\XmlEmployee.dll
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\bin\Debug\net8.0\XmlEmployee.pdb
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.dll
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\refint\XmlEmployee.dll
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.pdb
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\XmlEmployee.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\obj\Debug\net8.0\ref\XmlEmployee.dll
+C:\Users\WIIS\source\repos\XmlEmployee\XmlEmployee\bin\Debug\net8.0\employees.xml
