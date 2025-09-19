@@ -1,0 +1,16 @@
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.Form1.resources
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.csproj.GenerateResource.cache
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\bin\Debug\net8.0-windows\SumWindow.exe
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\bin\Debug\net8.0-windows\SumWindow.deps.json
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\bin\Debug\net8.0-windows\SumWindow.runtimeconfig.json
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\bin\Debug\net8.0-windows\SumWindow.dll
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\bin\Debug\net8.0-windows\SumWindow.pdb
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.dll
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\refint\SumWindow.dll
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.pdb
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\SumWindow.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\SumWindow\SumWindow\obj\Debug\net8.0-windows\ref\SumWindow.dll
