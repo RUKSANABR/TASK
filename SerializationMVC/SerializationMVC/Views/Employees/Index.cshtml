@@ -1,0 +1,51 @@
+﻿@model List<SerializationMVC.Models.Employee>
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<h2>Employees</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+<form asp-action="CreateAndSerialize" method="post" style="display:inline;">
+    <button type="submit" class="btn btn-primary">Serialize Employees</button>
+</form>
+
+<form asp-action="DeserializeEmployees" method="post" style="display:inline; margin-left:10px;">
+    <button type="submit" class="btn btn-success">Deserialize Employees</button>
+</form>
+
+<hr />
+
+@if (Model != null && Model.Any())
+{
+    <h4>Employee List</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var e in Model)
+            {
+                <tr>
+                    <td>@e.Id</td>
+                    <td>@e.Name</td>
+                    <td>@e.Department</td>
+                    <td>@e.Salary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (TempData["Message"] == null)
+{
+    <p>No employees found yet. Click <b>Serialize Employees</b> to create the XML file, then <b>Deserialize Employees</b> to read.</p>
+}
