@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|c:\\users\\wiis\\source\\repos\\notificationmvc\\notificationmvc\\views\\download\\startdownload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|solutionrelative:notificationmvc\\views\\download\\startdownload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|c:\\users\\wiis\\source\\repos\\notificationmvc\\notificationmvc\\controllers\\downloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|solutionrelative:notificationmvc\\controllers\\downloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|c:\\users\\wiis\\source\\repos\\notificationmvc\\notificationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|solutionrelative:notificationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|c:\\users\\wiis\\source\\repos\\notificationmvc\\notificationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|solutionrelative:notificationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|c:\\users\\wiis\\source\\repos\\notificationmvc\\notificationmvc\\models\\filedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853AB850-88B8-44CC-89C8-3BD04134B0AC}|NotificationMvc\\NotificationMvc.csproj|solutionrelative:notificationmvc\\models\\filedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Program.cs",
+              "RelativeToolTip": "NotificationMvc\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:17:11.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartDownload.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Views\\Download\\StartDownload.cshtml",
+              "RelativeDocumentMoniker": "NotificationMvc\\Views\\Download\\StartDownload.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Views\\Download\\StartDownload.cshtml",
+              "RelativeToolTip": "NotificationMvc\\Views\\Download\\StartDownload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T15:20:39.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DownloadController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Controllers\\DownloadController.cs",
+              "RelativeDocumentMoniker": "NotificationMvc\\Controllers\\DownloadController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Controllers\\DownloadController.cs",
+              "RelativeToolTip": "NotificationMvc\\Controllers\\DownloadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:19:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NotificationMvc\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Models\\User.cs",
+              "RelativeToolTip": "NotificationMvc\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:18:48.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Models\\FileDownloader.cs",
+              "RelativeDocumentMoniker": "NotificationMvc\\Models\\FileDownloader.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\NotificationMvc\\NotificationMvc\\Models\\FileDownloader.cs",
+              "RelativeToolTip": "NotificationMvc\\Models\\FileDownloader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:17:31.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
