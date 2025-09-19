@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\",
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\source\\repos\\studentsapi\\studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|solutionrelative:studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\source\\repos\\studentsapi\\studentsapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\desktop\\task\\studentsapi\\studentsapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|solutionrelative:studentsapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\source\\repos\\studentsapi\\studentsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\desktop\\task\\studentsapi\\studentsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|solutionrelative:studentsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\source\\repos\\studentsapi\\studentsapi\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\desktop\\task\\studentsapi\\studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|solutionrelative:studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\desktop\\task\\studentsapi\\studentsapi\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|solutionrelative:studentsapi\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\source\\repos\\studentsapi\\studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|c:\\users\\wiis\\desktop\\task\\studentsapi\\studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2032F7ED-8F42-41DE-B88F-2DBD3224DCFA}|StudentsApi\\StudentsApi.csproj|solutionrelative:studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "StudentsApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "StudentsApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -46,24 +46,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Program.cs",
               "RelativeDocumentMoniker": "StudentsApi\\Program.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Program.cs",
               "RelativeToolTip": "StudentsApi\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:16:41.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T07:16:41.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StudentServices.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Services\\StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Services\\StudentServices.cs",
               "RelativeDocumentMoniker": "StudentsApi\\Services\\StudentServices.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Services\\StudentServices.cs",
               "RelativeToolTip": "StudentsApi\\Services\\StudentServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,25 +70,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Controllers\\StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentsApi\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentsApi\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T07:13:51.946Z"
+              "WhenOpened": "2025-09-02T07:13:51.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentsApi\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentsApi\\StudentsApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\TASK\\StudentsApi\\StudentsApi\\Models\\Student.cs",
               "RelativeToolTip": "StudentsApi\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T07:12:35.223Z"
             }

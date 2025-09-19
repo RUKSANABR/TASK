@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WIIS\\source\\repos\\ProductDb\\ProductDb\\ProductDb.csproj": {}
+    "C:\\Users\\WIIS\\Desktop\\TASK\\ProductDb\\ProductDb\\ProductDb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WIIS\\source\\repos\\ProductDb\\ProductDb\\ProductDb.csproj": {
+    "C:\\Users\\WIIS\\Desktop\\TASK\\ProductDb\\ProductDb\\ProductDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WIIS\\source\\repos\\ProductDb\\ProductDb\\ProductDb.csproj",
+        "projectUniqueName": "C:\\Users\\WIIS\\Desktop\\TASK\\ProductDb\\ProductDb\\ProductDb.csproj",
         "projectName": "ProductDb",
-        "projectPath": "C:\\Users\\WIIS\\source\\repos\\ProductDb\\ProductDb\\ProductDb.csproj",
+        "projectPath": "C:\\Users\\WIIS\\Desktop\\TASK\\ProductDb\\ProductDb\\ProductDb.csproj",
         "packagesPath": "C:\\Users\\WIIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WIIS\\source\\repos\\ProductDb\\ProductDb\\obj\\",
+        "outputPath": "C:\\Users\\WIIS\\Desktop\\TASK\\ProductDb\\ProductDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
