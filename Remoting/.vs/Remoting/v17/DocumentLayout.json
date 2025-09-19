@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\Remoting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3957A-B306-4132-B50A-1534F91BE4CF}|CalculatorMvc\\CalculatorMvc.csproj|c:\\users\\wiis\\source\\repos\\remoting\\calculatormvc\\controllers\\calculatorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3957A-B306-4132-B50A-1534F91BE4CF}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\controllers\\calculatorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3957A-B306-4132-B50A-1534F91BE4CF}|CalculatorMvc\\CalculatorMvc.csproj|c:\\users\\wiis\\source\\repos\\remoting\\calculatormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3957A-B306-4132-B50A-1534F91BE4CF}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E67E24-1A37-44E4-B933-84FDA946CD66}|Remoting\\Remoting.csproj|c:\\users\\wiis\\source\\repos\\remoting\\remoting\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E67E24-1A37-44E4-B933-84FDA946CD66}|Remoting\\Remoting.csproj|solutionrelative:remoting\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3957A-B306-4132-B50A-1534F91BE4CF}|CalculatorMvc\\CalculatorMvc.csproj|c:\\users\\wiis\\source\\repos\\remoting\\calculatormvc\\views\\calculatorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AD3957A-B306-4132-B50A-1534F91BE4CF}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\views\\calculatorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\Remoting\\CalculatorMvc\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\Remoting\\CalculatorMvc\\Program.cs",
+              "RelativeToolTip": "CalculatorMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:37:21.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\Remoting\\CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\Remoting\\CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "RelativeToolTip": "CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T08:43:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorClientController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\Remoting\\CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\Remoting\\CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "RelativeToolTip": "CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:37:01.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\Remoting\\Remoting\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Remoting\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\Remoting\\Remoting\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Remoting\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:21:04.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
