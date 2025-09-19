@@ -1,0 +1,9 @@
+1|Ruksana|45
+2|amala|70
+3joel23
+3|joel|23
+4|amala|78
+5|sandra|4
+7|jenny|35
+8|RUKSANA|24
+9|sandra|34

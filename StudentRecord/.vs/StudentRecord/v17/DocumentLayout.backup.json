@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\app_data\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\app_data\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|c:\\users\\wiis\\source\\repos\\studentrecord\\studentrecord\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF8548A3-8134-4123-AC13-189ECEA43990}|StudentRecord\\StudentRecord.csproj|solutionrelative:studentrecord\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "students.txt",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\App_Data\\students.txt",
+              "RelativeDocumentMoniker": "StudentRecord\\App_Data\\students.txt",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\App_Data\\students.txt",
+              "RelativeToolTip": "StudentRecord\\App_Data\\students.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-17T11:37:07.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRecord\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Program.cs",
+              "RelativeToolTip": "StudentRecord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:01:01.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentRecord\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentRecord\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:57:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentRecord\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentRecord\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:56:19.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentRecord\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentRecord\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:53:36.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "StudentRecord\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "StudentRecord\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:51:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRecord\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentRecord\\StudentRecord\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRecord\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:43:31.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
